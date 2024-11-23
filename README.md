@@ -26,8 +26,8 @@ The **FTTx Network Maintenance Tool (IFNMS)** is a cutting-edge solution for mai
 ## Technology Stack
 - **Programming Languages:** Python, JavaScript, Go
 - **Frameworks:** TensorFlow (AI), AR.js (Augmented Reality)
-- **Databases:** PostgreSQL, MongoDB
-- **Infrastructure:** Kubernetes, Docker
+- **Databases:** PostgreSQL, postGIS
+- **Infrastructure:** Docker
 - **APIs:** OpenTelemetry, GeoJSON
 
 ## Installation
