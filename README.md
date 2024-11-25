@@ -1,7 +1,7 @@
-### Telecommunication Troubleshooting and Resolution Assistant (TTRA)
+### Troubleshooting and Resolution Assistant (TRA)
 
 #### **Overview**  
-The Telecommunication Troubleshooting and Resolution Assistant (TTRA) is a Software-as-a-Service (SaaS) platform that simplifies and automates the process of identifying, diagnosing, and resolving telecommunication network issues. The app is designed for Internet Service Providers (ISPs), Managed Service Providers (MSPs), and telecom companies to streamline operations, reduce downtime, and enhance the efficiency of technical teams.
+The Troubleshooting and Resolution Assistant (TTRA) is a Software-as-a-Service (SaaS) platform that simplifies and automates the process of identifying, diagnosing, and resolving telecommunication network issues. The app is designed for Internet Service Providers (ISPs), Managed Service Providers (MSPs), and telecom companies to streamline operations, reduce downtime, and enhance the efficiency of technical teams.
 
 The platform combines real-time diagnostics, AI-driven insights, and an intuitive user interface to empower technicians, dispatch teams, and managers to handle network issues seamlessly.
 
